@@ -1,0 +1,8 @@
+//nom_processus date_d_arrivee duree_dexecution priorite
+p1 0 6 7
+p2 1 6 5
+p3 2 2 7
+//ff 99
+
+p4 5 4 8
+p5 12 8 3
